@@ -1,0 +1,17 @@
+{
+  "name": "fnat-core",
+  "version": "1.0.0",
+  "description": "fnat core",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5"
+  }
+}
